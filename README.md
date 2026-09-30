@@ -4,7 +4,7 @@ A DIY, UltraGauge-style OBD-II gauge display built around an ESP32 and a
 4" touchscreen. Connects over Bluetooth Classic to an ELM327-style
 adapter and shows live engine data across several swipeable gauge pages.
 
-Built and tested on a **2007 Lexus GX470** (1GR-FE V8), but the standard
+Built and tested on a **2007 Lexus GX470** (2UZ-FE V8), but the standard
 OBD-II PIDs will work on most OBD-II-compliant vehicles (2008+ in the
 US, most earlier ones too). A couple of gauges use Toyota-specific
 enhanced PIDs and won't apply to other makes — see Notes below.
