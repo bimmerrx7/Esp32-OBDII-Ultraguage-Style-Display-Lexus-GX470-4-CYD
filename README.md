@@ -1,4 +1,4 @@
-# GX470 UltraGauge — ESP32 OBD-II Display
+# GX470 UltraGauge Style Display — ESP32 OBD-II Display
 
 A DIY, UltraGauge-style OBD-II gauge display built around an ESP32 and a
 4" touchscreen. Connects over Bluetooth Classic to an ELM327-style
